@@ -34,7 +34,7 @@
 <https://hooson.itch.io/stay-safe>
 
 ## Comments
-Created by MMI-Group 07:\
-Henri Allgöwer\
-Ikhsan Habibi\
-Tatjana Kukic\
+Created by MMI-Group 07:
+Henri Allgöwer
+Ikhsan Habibi
+Tatjana Kukic
