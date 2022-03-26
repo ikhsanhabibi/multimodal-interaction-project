@@ -3,10 +3,10 @@
 The main task of the project is to develop multimodal game by using Unity. The output of the project has to be a game designed and implemented by your group that is using different modalities in the gameplay.
 
 Achieved tasks:
-0: Designed idea of the game and develop in the virtual environment
-1: Implemented the first modality
-2: Implemented the second modality
-3: Modality fusion & modality fission
+- Designed idea of the game and develop in the virtual environment
+- Implemented the first modality
+- Implemented the second modality
+- Modality fusion & modality fission
 
 
 ![game](https://user-images.githubusercontent.com/33756873/160258880-294023f4-8f4e-47c9-851b-3b573927d059.JPG)
@@ -49,6 +49,6 @@ Achieved tasks:
 
 ## Comments
 Created by MMI-Group 07:
-Henri Allgöwer
-Ikhsan Habibi
-Tatjana Kukic
+- Henri Allgöwer
+- Ikhsan Habibi
+- Tatjana Kukic
