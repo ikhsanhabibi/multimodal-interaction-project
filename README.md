@@ -1,6 +1,6 @@
 # Multimodal Interaction Project
 
-The main task of the project is to develop multimodal game by using Unity. The output of the project has to be a game designed and implemented by your group that is using different modalities in the gameplay.
+The main task of the project is to develop multimodal game by using Unity. The output of the project is a game designed and implemented by a group that is using different modalities in the gameplay.
 
 Achieved tasks:
 - Designed idea of the game and develop in the virtual environment
